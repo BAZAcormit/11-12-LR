@@ -1,0 +1,25 @@
+uses GraphABC;
+
+begin
+  SetWindowSize(1000, 1000);
+  SetPenColor(rgb(random(256), random(256), random(256)));
+  SetPenWidth(6);
+  circle(500, 500, 30);
+  circle(500, 500, 40);
+  circle(500, 500, 50);
+  circle(500, 500, 60);
+  circle(500, 500, 70);
+  circle(500, 500, 80);
+  circle(500, 500, 90);
+  circle(500, 500, 100);
+  circle(500, 500, 110);
+  circle(500, 500, 120);
+  circle(500, 500, 30);
+  circle(500, 500, 40);
+  circle(500, 500, 50);
+  circle(500, 500, 60);
+  circle(500, 500, 70);
+  circle(500, 500, 80);
+  circle(500, 500, 90);
+  circle(500, 500, 100);
+end.
